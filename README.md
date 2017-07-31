@@ -11,6 +11,7 @@ An auxiliary list of awesome Idris resources.
 
 * [10 things Idris improved over Haskell](https://deque.blog/2017/06/14/10-things-idris-improved-over-haskell/)
 * [Meet Idris, a language that will change the way you think about programming](http://crufter.com/@crufter/idris-a-language-that-will-change-the-way-you-think-about-programming)
+* [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
 
 ## _Books_
 
