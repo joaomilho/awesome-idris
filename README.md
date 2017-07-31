@@ -28,12 +28,27 @@ An auxiliary list of awesome Idris resources.
 ## _Projects_
 
 * [Github's trending Idris repos](https://github.com/trending/idris)
-* [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris
 * [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris
 * [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris
 * [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Type provider library for Idris
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript
+* [idris-containers](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language
+* [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite
+* [idris-http](https://github.com/uwap/idris-http) - An HTTP library for idris
+* [RingIdris](https://github.com/FranckS/RingIdris) - Ring solver for Idris
+* [specdris](https://github.com/pheymann/specdris) - A test framework for Idris
+* [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris
+* [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris
+* [idris-protobuf](https://github.com/google/idris-protobuf) - A partial implementation of Protocol Buffers in Idris
+* [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them
+
+### _Backends_
+
+* [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode backend for Idris
+* [idris-llvm](https://github.com/idris-hackers/idris-llvm) - LLVM backend
+* [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend
+* [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend 
 
 # License
 
