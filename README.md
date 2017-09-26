@@ -1,6 +1,7 @@
+[<img src="https://www.idris-lang.org/logo/logo.png" align="right" width="200">](https://www.idris-lang.org/)
+
 # Awesome Idris [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://www.idris-lang.org/logo/logo.png" align="right" width="200">](https://www.idris-lang.org/)
 
 > An auxiliary list of awesome Idris resources.
 
