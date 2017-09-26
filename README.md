@@ -5,7 +5,7 @@
 
 [<img src="https://www.idris-lang.org/logo/logo.png" align="right" width="160">](https://www.idris-lang.org/)
 
-> An auxiliary list of awesome Idris resources.
+> An auxiliary list of awesome [Idris](https://www.idris-lang.org/) resources.
 
 ## Contents
 
