@@ -11,7 +11,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ## Contents
 
-- [Official resources](#official_resources)
+- [Official resources](#official-resources)
 - [Books](#books)
 - [Presentations](#presentations)
 - [Projects](#projects)
