@@ -7,11 +7,19 @@
 
 > An auxiliary list of awesome [Idris](https://www.idris-lang.org/) resources.
 
+Idris is a general purpose pure functional programming language with dependent types. Dependent types allow types to be predicated on values, meaning that some aspects of a program’s behaviour can be specified precisely in the type. It is compiled, with eager evaluation. Its features are influenced by Haskell and ML.
+
 ## Contents
 
+- [Official resources](#official_resources)
 - [Books](#books)
 - [Presentations](#presentations)
 - [Projects](#projects)
+
+### Official resources
+
+* [Official website](https://www.idris-lang.org/)
+* [Official repo](https://github.com/idris-lang/Idris-dev)
 
 ### Articles
 
@@ -28,7 +36,7 @@
 
 ### Presentations
 
-* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8) - a presentation by Edwin Brady, Idris's creator
+* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8) - presentation by Edwin Brady, Idris's creator
 * [Dependently Typed Functional Programming in Idris by David Christiansen](https://vimeo.com/117221082) - here's [2](https://vimeo.com/117973383), [3](https://vimeo.com/117979741) and [notes & exercises](https://github.com/david-christiansen/IdrisAtGalois2015).
 
 ### Projects
@@ -41,12 +49,12 @@
 * [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI Bindings to interact with the unsafe world of JavaScript
 * [idris-containers](https://github.com/jfdm/idris-containers) - Various data structures for use in the Idris Language
 * [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - Effectful bindings for SQLite
-* [idris-http](https://github.com/uwap/idris-http) - An HTTP library for idris
+* [idris-http](https://github.com/uwap/idris-http) - HTTP library for idris
 * [RingIdris](https://github.com/FranckS/RingIdris) - Ring solver for Idris
-* [specdris](https://github.com/pheymann/specdris) - A test framework for Idris
+* [specdris](https://github.com/pheymann/specdris) - Test framework for Idris
 * [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris
-* [idris-protobuf](https://github.com/google/idris-protobuf) - A partial implementation of Protocol Buffers in Idris
+* [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them
 
 ### Backends
@@ -56,6 +64,12 @@
 * [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend
 * [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend 
 
-# License
+### Community
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+* [Mailing list](http://groups.google.com/group/idris-lang)
+* IRC: #idris on [freenode.net](https://webchat.freenode.net/)
+* [Github organization](https://github.com/idris-hackers)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
