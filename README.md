@@ -41,7 +41,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Projects
 
-* [Github's trending Idris repos](https://github.com/trending/idris)
+* [GitHub's trending Idris repos](https://github.com/trending/idris)
 * [iridium](https://github.com/puffnfresh/iridium) - xmonad with the X11 abstracted and configured with Idris
 * [lightyear](https://github.com/ziman/lightyear) - Parser combinators for Idris
 * [quantities](https://github.com/timjb/quantities) Type-safe physical computations and unit conversions in Idris
