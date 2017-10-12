@@ -36,8 +36,8 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Presentations
 
-* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8) - presentation by Edwin Brady, Idris' creator.
-* [Dependently Typed Functional Programming in Idris by David Christiansen](https://vimeo.com/117221082) - here's [2](https://vimeo.com/117973383), [3](https://vimeo.com/117979741) and [notes & exercises](https://github.com/david-christiansen/IdrisAtGalois2015).
+* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8) - Presentation by Edwin Brady, Idris' creator.
+* [Dependently Typed Functional Programming in Idris by David Christiansen](https://vimeo.com/117221082) - Here's [2](https://vimeo.com/117973383), [3](https://vimeo.com/117979741) and [notes & exercises](https://github.com/david-christiansen/IdrisAtGalois2015).
 
 ### Projects
 
