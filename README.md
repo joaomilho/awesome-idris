@@ -68,7 +68,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 * [Mailing list](http://groups.google.com/group/idris-lang)
 * IRC: #idris on [freenode.net](https://webchat.freenode.net/)
-* [Github organization](https://github.com/idris-hackers)
+* [GitHub organization](https://github.com/idris-hackers)
 * [Community Standards](https://www.idris-lang.org/documentation/community-standards/)
 
 ## License
