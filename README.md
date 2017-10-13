@@ -12,7 +12,9 @@ Idris is a general purpose pure functional programming language with dependent t
 ## Contents
 
 - [Official resources](#official-resources)
+- [Articles](#articles)
 - [Books](#books)
+- [Papers](#papers)
 - [Presentations](#presentations)
 - [Projects](#projects)
 
@@ -33,6 +35,22 @@ Idris is a general purpose pure functional programming language with dependent t
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 * [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2016.pdf) - Repo is [here](https://github.com/idris-hackers/software-foundations).
+
+### Papers
+
+* [Elaborator Reflection: Extending Idris in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/elab-reflection.pdf) - David Christiansen and Edwin Brady, 2016.
+* [Cross-platform Compilers for Functional Languages](https://eb.host.cs.st-andrews.ac.uk/drafts/compile-idris.pdf) - Edwin Brady, 2015.
+* [Programming and Reasoning with Side-Effects in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/eff-tutorial.pdf) - Edwin Brady, 2014.
+* [Idris, a General Purpose Dependently Typed Programming Language: Design and Implementation](https://pdfs.semanticscholar.org/1407/220ca09070233dca256433430d29e5321dc2.pdf) - Edwin Brady, 2013.
+* [Programming and Reasoning with Algebraic Effects and Dependent Types](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf) - Edwin Brady, 2013.
+* [Sequential decision problems, dependently typed solutions](http://eb.host.cs.st-andrews.ac.uk/writings/plmms13.pdf) - Nicola Botta, Cezar Ionescu and Edwin Brady, 2013.
+* [Programming in Idris: a tutorial](http://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf) - Edwin Brady, 2012.
+* [Resource-safe Systems Programming with Embedded Domain Specific Languages](http://www.cs.st-andrews.ac.uk/~eb/drafts/dsl-idris.pdf) – Edwin Brady and Kevin Hammond, 2012.
+* [Idris — Systems Programming Meets Full Dependent Types](https://eb.host.cs.st-andrews.ac.uk/writings/plpv11.pdf) - Edwin Brady, 2011.
+* [Scrapping your Inefficient Engine: using Partial Evaluation to Improve Domain-Specific Language Implementation](http://eb.host.cs.st-andrews.ac.uk/writings/icfp10.pdf) - Edwin Brady and Kevin Hammond, 2010.
+* [Correct-by-Construction Concurrency: using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols](http://eb.host.cs.st-andrews.ac.uk/writings/fi-cbc.pdf) - Edwin Brady and Kevin Hammond, 2010.
+* [Domain Specific Languages (DSLs) for Network Protocols](http://eb.host.cs.st-andrews.ac.uk/drafts/ngna2009-dsl.pdf) - Saleem Bhatti, Edwin Brady, Kevin Hammond and James McKinna, 2009.
+* [Lightweight Invariants with Full Dependent Types](http://eb.host.cs.st-andrews.ac.uk/drafts/tfp08.pdf) - Edwin Brady, Christoph Herrmann and Kevin Hammond, 2008.
 
 ### Presentations
 
