@@ -34,7 +34,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [Type Driven Development With Idris](https://www.manning.com/books/type-driven-development-with-idris) - Most important book published so far.
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
-* [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2016.pdf) - Repo is [here](https://github.com/idris-hackers/software-foundations).
+* [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - Repo is [here](https://github.com/idris-hackers/software-foundations).
 
 ### Papers
 
