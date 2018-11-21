@@ -45,7 +45,6 @@ Idris is a general purpose pure functional programming language with dependent t
 * [Programming and Reasoning with Algebraic Effects and Dependent Types](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf) - Edwin Brady, 2013.
 * [Sequential decision problems, dependently typed solutions](http://eb.host.cs.st-andrews.ac.uk/writings/plmms13.pdf) - Nicola Botta, Cezar Ionescu and Edwin Brady, 2013.
 * [Programming in Idris: a tutorial](http://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf) - Edwin Brady, 2012.
-* [Resource-safe Systems Programming with Embedded Domain Specific Languages](http://www.cs.st-andrews.ac.uk/~eb/drafts/dsl-idris.pdf) – Edwin Brady and Kevin Hammond, 2012.
 * [Idris — Systems Programming Meets Full Dependent Types](https://eb.host.cs.st-andrews.ac.uk/writings/plpv11.pdf) - Edwin Brady, 2011.
 * [Scrapping your Inefficient Engine: using Partial Evaluation to Improve Domain-Specific Language Implementation](http://eb.host.cs.st-andrews.ac.uk/writings/icfp10.pdf) - Edwin Brady and Kevin Hammond, 2010.
 * [Correct-by-Construction Concurrency: using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols](http://eb.host.cs.st-andrews.ac.uk/writings/fi-cbc.pdf) - Edwin Brady and Kevin Hammond, 2010.
@@ -55,7 +54,6 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Presentations
 
 * [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8) - Presentation by Edwin Brady, Idris' creator.
-* [Dependently Typed Functional Programming in Idris by David Christiansen](https://vimeo.com/117221082) - Here's [2](https://vimeo.com/117973383), [3](https://vimeo.com/117979741) and [notes & exercises](https://github.com/david-christiansen/IdrisAtGalois2015).
 
 ### Projects
 
