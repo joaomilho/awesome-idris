@@ -80,6 +80,13 @@ Idris is a general purpose pure functional programming language with dependent t
 * [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang backend.
 * [idris-malfunction](https://github.com/stedolan/idris-malfunction) - Experimental Malfunction (OCaml internal representation) backend.
 
+### Build tools | Package managers
+
+- [Idris Rules](http://idris.build) - Idris rules for Bazel
+- [Ikan](https://github.com/idris-industry/ikan) - A package manager for idris, in idris
+- [Elba](https://github.com/elba/elba) - A package manager for Idris
+- [idream](https://github.com/idream-build/idream) - A simple build system for Idris
+
 ### Community
 
 * [Mailing list](http://groups.google.com/group/idris-lang)
