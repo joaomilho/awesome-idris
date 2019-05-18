@@ -73,6 +73,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris.
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them.
 * [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library
+* [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language
 
 ### Backends
 
