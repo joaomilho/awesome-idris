@@ -26,7 +26,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Articles
 
 * [10 things Idris improved over Haskell](https://deque.blog/2017/06/14/10-things-idris-improved-over-haskell/)
-* [Meet Idris, a language that will change the way you think about programming](http://crufter.com/@crufter/idris-a-language-that-will-change-the-way-you-think-about-programming)
+* [Meet Idris, a language that will change the way you think about programming](https://crufter.com/idris-a-language-that-will-change-the-way-you-think-about-programming)
 * [Tests vs. Types](http://kevinmahoney.co.uk/articles/tests-vs-types/)
 
 ### Books
