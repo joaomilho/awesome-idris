@@ -75,6 +75,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them.
 * [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library
 * [typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language
+* [boj-server](https://github.com/hyperpolymath/boj-server) - Developer tool catalogue using Idris2 dependent types for ABI definitions. The `IsUnbreakable` proof type gates cartridge activation at compile time. 18 cartridge ABI modules with `%default total`, zero `believe_me`. Zig FFI, V-lang adapter.
 
 ### Backends
 
