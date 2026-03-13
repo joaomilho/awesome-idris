@@ -71,6 +71,8 @@ Idris is a general purpose pure functional programming language with dependent t
 * [specdris](https://github.com/pheymann/specdris) - Test framework for Idris.
 * [idris-config](https://github.com/jfdm/idris-config) - Parsers for various configuration files written in Idris.
 * [probability](https://github.com/BlackBrane/probability) - Probabilistic computation in Idris.
+* [proven](https://github.com/hyperpolymath/proven) - Formally verified library for safe math, crypto, parsing, and validation with cross-language FFI bindings.
+* [proven-servers](https://github.com/hyperpolymath/proven-servers) - Formally verified server components — protocol skeletons, core primitives, and connector interfaces with Zig FFI.
 * [idris-protobuf](https://github.com/google/idris-protobuf) - Partial implementation of Protocol Buffers in Idris.
 * [idris-free](https://github.com/idris-hackers/idris-free) - Free Monads and useful constructions to work with them.
 * [idris-ct](https://github.com/statebox/idris-ct) - Formally verified category theory library
