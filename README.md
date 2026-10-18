@@ -39,18 +39,18 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Papers
 
-* [Elaborator Reflection: Extending Idris in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/elab-reflection.pdf) - David Christiansen and Edwin Brady, 2016.
-* [Cross-platform Compilers for Functional Languages](https://eb.host.cs.st-andrews.ac.uk/drafts/compile-idris.pdf) - Edwin Brady, 2015.
-* [Programming and Reasoning with Side-Effects in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/eff-tutorial.pdf) - Edwin Brady, 2014.
+* [Elaborator Reflection: Extending Idris in Idris](https://www.type-driven.org.uk/edwinb/papers/elab-reflection.pdf) - David Christiansen and Edwin Brady, 2016.
+* [Cross-platform Compilers for Functional Languages](https://web.archive.org/web/20220430094757/https://eb.host.cs.st-andrews.ac.uk/drafts/compile-idris.pdf) - Edwin Brady, 2015.
+* [Programming and Reasoning with Side-Effects in Idris](https://web.archive.org/web/20210918033311/https://eb.host.cs.st-andrews.ac.uk/drafts/eff-tutorial.pdf) - Edwin Brady, 2014.
 * [Idris, a General Purpose Dependently Typed Programming Language: Design and Implementation](https://pdfs.semanticscholar.org/1407/220ca09070233dca256433430d29e5321dc2.pdf) - Edwin Brady, 2013.
-* [Programming and Reasoning with Algebraic Effects and Dependent Types](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf) - Edwin Brady, 2013.
-* [Sequential decision problems, dependently typed solutions](http://eb.host.cs.st-andrews.ac.uk/writings/plmms13.pdf) - Nicola Botta, Cezar Ionescu and Edwin Brady, 2013.
-* [Programming in Idris: a tutorial](http://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf) - Edwin Brady, 2012.
-* [Idris — Systems Programming Meets Full Dependent Types](https://eb.host.cs.st-andrews.ac.uk/writings/plpv11.pdf) - Edwin Brady, 2011.
-* [Scrapping your Inefficient Engine: using Partial Evaluation to Improve Domain-Specific Language Implementation](http://eb.host.cs.st-andrews.ac.uk/writings/icfp10.pdf) - Edwin Brady and Kevin Hammond, 2010.
-* [Correct-by-Construction Concurrency: using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols](http://eb.host.cs.st-andrews.ac.uk/writings/fi-cbc.pdf) - Edwin Brady and Kevin Hammond, 2010.
-* [Domain Specific Languages (DSLs) for Network Protocols](http://eb.host.cs.st-andrews.ac.uk/drafts/ngna2009-dsl.pdf) - Saleem Bhatti, Edwin Brady, Kevin Hammond and James McKinna, 2009.
-* [Lightweight Invariants with Full Dependent Types](http://eb.host.cs.st-andrews.ac.uk/drafts/tfp08.pdf) - Edwin Brady, Christoph Herrmann and Kevin Hammond, 2008.
+* [Programming and Reasoning with Algebraic Effects and Dependent Types](https://www.type-driven.org.uk/edwinb/papers/effects.pdf) - Edwin Brady, 2013.
+* [Sequential decision problems, dependently typed solutions](https://www.type-driven.org.uk/edwinb/papers/plmms13.pdf) - Nicola Botta, Cezar Ionescu and Edwin Brady, 2013.
+* [Programming in Idris: a tutorial](https://www.type-driven.org.uk/edwinb/papers/idris-tutorial.pdf) - Edwin Brady, 2012.
+* [Idris — Systems Programming Meets Full Dependent Types](https://www.type-driven.org.uk/edwinb/papers/plpv11.pdf) - Edwin Brady, 2011.
+* [Scrapping your Inefficient Engine: using Partial Evaluation to Improve Domain-Specific Language Implementation](https://www.type-driven.org.uk/edwinb/papers/icfp10.pdf) - Edwin Brady and Kevin Hammond, 2010.
+* [Correct-by-Construction Concurrency: using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols](https://www.type-driven.org.uk/edwinb/papers/fi-cbc.pdf) - Edwin Brady and Kevin Hammond, 2010.
+* [Domain Specific Languages (DSLs) for Network Protocols](https://www.type-driven.org.uk/edwinb/papers/ngna2009-dsl.pdf) - Saleem Bhatti, Edwin Brady, Kevin Hammond and James McKinna, 2009.
+* [Lightweight Invariants with Full Dependent Types](https://www.type-driven.org.uk/edwinb/papers/tfp08.pdf) - Edwin Brady, Christoph Herrmann and Kevin Hammond, 2008.
 
 ### Presentations
 
@@ -85,7 +85,7 @@ Idris is a general purpose pure functional programming language with dependent t
 
 ### Build tools | Package managers
 
-- [Idris Rules](http://idris.build) - Idris rules for Bazel
+- [Idris Rules](https://github.com/BryghtWords/rules_idris) - Idris rules for Bazel
 - [Ikan](https://github.com/idris-industry/ikan) - A package manager for idris, in idris
 - [Elba](https://github.com/elba/elba) - A package manager for Idris
 - [idream](https://github.com/idream-build/idream) - A simple build system for Idris
@@ -95,7 +95,7 @@ Idris is a general purpose pure functional programming language with dependent t
 * [Mailing list](http://groups.google.com/group/idris-lang)
 * IRC: #idris on [freenode.net](https://webchat.freenode.net/)
 * [GitHub organization](https://github.com/idris-hackers)
-* [Community Standards](https://www.idris-lang.org/documentation/community-standards/)
+* [Community Standards](https://www.idris-lang.org/pages/community-standards.html)
 
 ## License
 
